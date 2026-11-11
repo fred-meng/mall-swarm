@@ -122,7 +122,7 @@ mall
 
 | 工具          | 版本号 | 下载                                                         |
 | ------------- | ------ | ------------------------------------------------------------ |
-| JDK           | 17     | https://www.oracle.com/cn/java/technologies/downloads/#java17 |
+| JDK           | 25     | https://www.oracle.com/cn/java/technologies/downloads/#java25 |
 | Mysql         | 5.7    | https://www.mysql.com/                                       |
 | Redis         | 7.0    | https://redis.io/download                                    |
 | Elasticsearch | 7.17.3 | https://www.elastic.co/cn/downloads/elasticsearch            |
